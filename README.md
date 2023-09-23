@@ -1,2 +1,3 @@
-# css-assignment-position-property
-CSS assignment using position and float property
+# CSS Position and Float Property
+
+Muhammad Mohsin Siddique
